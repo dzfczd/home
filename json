@@ -1,0 +1,32 @@
+{
+  "name": "全屋定制",
+  "id": "110611",
+
+  "products": [{
+      "id": "918#  ",
+      "price": "￥4760起",
+      "name": "客厅",
+      "src": "https://nkjjq.cn/uploads/product/main_picture/5375771/tv_thumb_1.jpg"
+
+    },
+    {
+      "id": "919#  ",
+      "price": "￥4760起",
+      "name": "卧室一",
+      "src": "https://nkjjq.cn/uploads/product/main_picture/5224304/tv_thumb_1820_-8.jpg"
+    },
+    {
+      "id": "920#  ",
+      "price": "￥4760起",
+      "name": "卧室二",
+      "src": "https://nkjjq.cn/uploads/product/main_picture/7784723/tv_thumb_1.jpg"
+    },
+    {
+      "id": "921#  ",
+      "price": "￥4760起",
+      "name": "卧室三",
+      "src": "https://nkjjq.cn/uploads/product/main_picture/7784726/tv_thumb_1.jpg"
+    }
+
+  ]
+}
